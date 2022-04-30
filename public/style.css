@@ -13,3 +13,12 @@ img.bigcoin {
 img.smallcoin {
   width: 50px;
 }
+
+.highlight {
+  border: solid red 2px;
+  background-color: white;
+}
+
+h3 {
+  text-transform: capitalize;
+}
